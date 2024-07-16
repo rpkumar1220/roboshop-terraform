@@ -8,8 +8,8 @@ tags={
   Buisness_unit="Retail"
 }
 
-default_vpc_id = "vpc-093e0600672c5ecc1"
-default_vpc_rt = "rtb-0bc1356ac15da6b6c"
+default_vpc_id = "vpc-00a1d5ab4773e0d0b"
+default_vpc_rt = "rtb-08beb87d23175294c"
 
 vpc={
   main={
